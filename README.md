@@ -1,1 +1,1 @@
-# LuminaAI
+# LuminaAutomationProject
